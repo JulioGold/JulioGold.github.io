@@ -1,11 +1,11 @@
 # Site settings
-title: Eduardo Eidelwein Berlitz blog
+title: Julio Goldschmidt blog
 email: 
-description: "A blog about computer science"
+description: "Utilidades diversas"
 baseurl: ""
-url: "http://eberlitz.github.io"
-twitter_username: eberlitz
-github_username:  eberlitz
+url: "http://juliogold.github.io"
+twitter_username: JulioGold
+github_username:  JulioGold
 
 # Build settings
 markdown: redcarpet
