@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm **Eduardo Eidelwein Berlitz**.
+**Julio Goldschmidt**.
