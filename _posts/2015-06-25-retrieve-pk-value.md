@@ -1,18 +1,18 @@
 ---
 layout: post
 comments: false
-title:  "Retrieve primary key value after inserted when pk is a uniqueidentifier"
-excerpt: "Who was tried knows @@IDENTITY and SCOPE_IDENTITY() will not work at a uniqueidentifier type field, because the Id field isn't identity."
-date:   2015-06-25 20:57:00
+title: "Retrieve primary key value after inserted when pk is a uniqueidentifier"
+excerpt: "Who has tried, knows @@IDENTITY and SCOPE_IDENTITY() will not work at a uniqueidentifier type field, because the Id field isn't identity."
+date: 2015-06-25 20:57:00
 mathjax: true
-published:   true
+published: true
 ---
 
 # Retrieve primary key value after inserted when pk is a uniqueidentifier
 
 ---
 
-## Who was tried knows @@IDENTITY and SCOPE_IDENTITY() will not work at a uniqueidentifier type field, because the Id field isn't identity.
+## Who has tried, knows @@IDENTITY and SCOPE_IDENTITY() will not work at a uniqueidentifier type field, because the Id field isn't identity.
 
 ---
 
@@ -55,3 +55,5 @@ published:   true
     VALUES('Daiana','daiana@email.com');
     SELECT Id FROM @identifier;
 ```
+  
+Thanks  
