@@ -47,26 +47,26 @@ E deixei executando...
 ![](https://raw.githubusercontent.com/JulioGold/JulioGold.github.io/master/_posts/images/2015-08-23-usando-o-wget-no-windows/19.png)  
 
 E olhe, sem surpresa alguma, não é que nos 60% ocorreu um problema novamente!  
-![](/images/2015-08-23-usando-o-wget-no-windows/21.png)  
+![](https://raw.githubusercontent.com/JulioGold/JulioGold.github.io/master/_posts/images/2015-08-23-usando-o-wget-no-windows/21.png)  
 
 E o que fazer agora para continuar o download?  
 Simplesmente iniciei o download pelo navegador para pegar o novo link e depois executei o mesmo comando no wget, alterando apenas o link de download, vejamos:  
-![](/images/2015-08-23-usando-o-wget-no-windows/22.png)  
+![](https://raw.githubusercontent.com/JulioGold/JulioGold.github.io/master/_posts/images/2015-08-23-usando-o-wget-no-windows/22.png)  
 
 E...  
 Funcionou:  
-![](/images/2015-08-23-usando-o-wget-no-windows/23.png)  
+![](https://raw.githubusercontent.com/JulioGold/JulioGold.github.io/master/_posts/images/2015-08-23-usando-o-wget-no-windows/23.png)  
 
 O download continuou de onde havia parado, mas não vou contar com o sucesso antes do término do download e verificar se o arquivo está íntegro.  
 
 Bem chegando no final, hora de verificar:  
-![](/images/2015-08-23-usando-o-wget-no-windows/26.png)  
+![](https://raw.githubusercontent.com/JulioGold/JulioGold.github.io/master/_posts/images/2015-08-23-usando-o-wget-no-windows/26.png)  
 
 Montando a imagem...  
-![](/images/2015-08-23-usando-o-wget-no-windows/28 - Copia.png)  
+![](https://raw.githubusercontent.com/JulioGold/JulioGold.github.io/master/_posts/images/2015-08-23-usando-o-wget-no-windows/28 - Copia.png)  
 
 Imagem montada e funcionando:  
-![](/images/2015-08-23-usando-o-wget-no-windows/29 - Copia.png)  
+![](https://raw.githubusercontent.com/JulioGold/JulioGold.github.io/master/_posts/images/2015-08-23-usando-o-wget-no-windows/29 - Copia.png)  
 
 Pronto, tudo resolvido.  
 
