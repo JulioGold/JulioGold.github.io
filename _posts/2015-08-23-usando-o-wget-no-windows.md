@@ -44,7 +44,7 @@ wget.exe -c "http://LinkMalucoDoVisualStudioQueMudaTodaHoraEDaErro" -O "C:\temp\
 ```  
 
 E deixei executando...  
-![](/images/2015-08-23-usando-o-wget-no-windows/19.png)  
+![](https://raw.githubusercontent.com/JulioGold/JulioGold.github.io/master/_posts/images/2015-08-23-usando-o-wget-no-windows/19.png)  
 
 E olhe, sem surpresa alguma, não é que nos 60% ocorreu um problema novamente!  
 ![](/images/2015-08-23-usando-o-wget-no-windows/21.png)  
